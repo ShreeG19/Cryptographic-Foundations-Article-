@@ -1,2 +1,6 @@
-# Cryptographic-Foundations-Article-
-An article on topic "Cryptographic Foundations and Their Role in Digital Security, Finance, and Civil Liberties",   This article explains cryptographic foundations and how they secure digital systems, enable safe financial transactions, and protect civil liberties in today’s connected world.
+Title: Cryptographic Foundations and Their Role in Digital Security, Finance, and Civil Liberties
+
+Author: Shree G
+
+Description:
+This paper explains the basics of cryptography and shows how it secures digital systems, supports safe financial transactions, and protects civil liberties in today’s digital world.
